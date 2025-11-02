@@ -61,18 +61,18 @@ h1::after {
   background-position: top;
 }
 .images__mountains {
-  background-image: url("mountains1.png");
+  background-image: url("/img/mountains.png");
   background-size: cover;
   top: 15%;
   z-index: 2;
 }
 .images__clouds {
-  background-image: url("clouds1.jpg");
+  background-image: url("/img/clouds.jpg");
   background-size: cover;
   top: 0;
 }
 .images__human {
-  background-image: url("human1.png");
+  background-image: url("/img/human.png");
   background-size: cover;
   top: 45%;
   z-index: 3;
